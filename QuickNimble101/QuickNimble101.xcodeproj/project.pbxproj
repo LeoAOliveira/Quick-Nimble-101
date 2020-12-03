@@ -154,9 +154,9 @@
 			isa = PBXGroup;
 			children = (
 				A7478A402576818C00E0275D /* QuickNimble101Tests.swift */,
-				A7478A422576818C00E0275D /* Info.plist */,
 				A7AFA57A257685F600B91791 /* FunctionSpec.swift */,
 				A7AFA58225768E1900B91791 /* AutoLayoutTests.swift */,
+				A7478A422576818C00E0275D /* Info.plist */,
 			);
 			path = QuickNimble101Tests;
 			sourceTree = "<group>";
