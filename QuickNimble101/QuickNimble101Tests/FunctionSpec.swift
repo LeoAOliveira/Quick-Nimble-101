@@ -18,14 +18,14 @@ final class FunctionSpec: QuickSpec {
         /// Describes the test
         describe("Function") { /// Given...
             
-            /// System/Subject Under Test
+            /// System/Subject Under Testing
             var sut: Function!
             
             /// Contextualize the test
             context("when initialized") { /// When...
                 
                 /// Before each test...
-                /// Similar to the setup function for XCTests
+                /// Similar to the setup function in XCTests
                 beforeEach {
                     sut = Function()
                 }
