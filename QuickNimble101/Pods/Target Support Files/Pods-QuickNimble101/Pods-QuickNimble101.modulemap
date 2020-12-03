@@ -1,0 +1,6 @@
+framework module Pods_QuickNimble101 {
+  umbrella header "Pods-QuickNimble101-umbrella.h"
+
+  export *
+  module * { export * }
+}

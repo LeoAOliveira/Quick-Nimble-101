@@ -1,0 +1,18 @@
+target 'QuickNimble101' do
+    platform :ios, '13.0'
+    use_frameworks!
+ 
+  target 'QuickNimble101Tests' do
+    inherit! :search_paths
+    
+    pod 'Quick'
+    pod 'Nimble'
+    pod 'Nimble-Snapshots'
+    
+  end
+ 
+  target 'QuickNimble101UITests' do
+ 
+  end
+ 
+end
